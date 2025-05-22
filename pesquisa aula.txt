@@ -1,0 +1,78 @@
+Quais são as principais diferenças entre linguagens
+de baixo nível e alto nível, como essas diferenças
+influenciam a forma de desenvolver e compreender
+um programa?
+
+Linguagens de baixo nível são aquelas que estão mais próximas do hardware e do código de maquina sendo mais complexas de entender. Exemplo(assembly,linguagem de maquina)
+linguagens de alto nível são aquelas mais avançadas, comandos e estruturas mais intuitivos e abstratos.
+
+principais diferenças entre elas duas são
+
+Nível de Abstração:
+Linguagens de alto nível oferecem maior abstração, escondendo detalhes de baixo nível do hardware para o programador. Linguagens de baixo nível, como linguagem assembly, são mais próximas do hardware, exigindo mais conhecimento e controle sobre o processador. 
+
+Facilidade de Uso e Aprendizagem:
+Linguagens de alto nível são geralmente mais fáceis de aprender e usar, com sintaxe mais intuitiva e recursos que facilitam o desenvolvimento. As linguagens de baixo nível são mais complexas, exigindo um entendimento profundo da arquitetura da máquina.
+ 
+Controle sobre o Hardware:
+Linguagens de baixo nível oferecem mais controle sobre o hardware, permitindo otimizações de baixo nível e acesso a recursos que não estão disponíveis em linguagens de alto nível. Linguagens de alto nível abstraem esses detalhes, facilitando o desenvolvimento em diferentes plataformas, mas reduzindo o controle. 
+
+Portabilidade:
+Linguagens de alto nível tendem a ser mais portáveis, podendo ser executadas em diferentes sistemas operacionais com poucas modificações. Linguagens de baixo nível podem ser menos portáveis, exigindo alterações significativas para serem adaptadas a diferentes plataformas.
+ 
+Influência no Desenvolvimento e Compreensão:
+Desenvolvimento:
+Linguagens de alto nível aceleram o desenvolvimento de aplicativos, pois permitem que os programadores se concentrem na lógica do programa, em vez de detalhes de baixo nível. Linguagens de baixo nível exigem mais tempo para desenvolver e depurar o código, devido à sua complexidade. 
+
+Compreensão:
+Linguagens de alto nível são mais fáceis de entender e manter, pois seu código é mais legível e a lógica é mais clara. Linguagens de baixo nível podem ser mais difíceis de entender e manter, exigindo um conhecimento profundo do hardware e do código de máquina. 
+
+Desempenho:
+Em alguns casos, as linguagens de baixo nível podem oferecer melhor desempenho, pois permitem otimizações de baixo nível que não são possíveis em linguagens de alto nível. No entanto, o desenvolvimento e a manutenção de código em linguagens de baixo nível podem ser mais demorados e exigentes. 
+
+Exemplos:
+Linguagens de Alto Nível: Python, Java Script, Java, C#, PHP, Ruby.
+Linguagens de Baixo Nível: Assembly, C. 
+
+Exemplos de linguagens de alto e baixo nível:
+
+alto nível: 
+
+Python
+
+Sintaxe simples e fácil de aprender.
+
+Exemplo: print("Olá, mundo!")
+
+Java
+
+Muito usada em aplicações empresariais e Android.
+
+Exemplo: System.out.println("Olá, mundo!");
+
+Java Script
+
+Principal linguagem para desenvolvimento web.
+
+Exemplo: console.log("Olá, mundo!");
+
+baixo nível:
+
+Assembly
+
+Usada para programar diretamente em instruções específicas da CPU.
+
+Exemplo de instrução: MOV AX, 1
+
+Linguagem de Máquina (binária)
+
+É o código diretamente entendido pelo processador (composto por 0s e 1s).
+
+Exemplo: 10110000 01100001
+
+C (considerada de médio - baixo nível)
+
+Embora seja mais legível que Assembly, permite manipular diretamente memória e ponteiros, com menos abstrações.
+
+
+

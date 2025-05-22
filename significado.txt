@@ -1,0 +1,33 @@
+int. = inteiro = 1
+float = quebrado = 1.0 ou 1.5
+string = palavras = "oi" qualquer coisa entre aspas
+boolean = verdadeiro ou falso = true or false
+input = escreva
+print = leia-imprimir	mostra na tela 
+ 
+Camel Case
+fabricaDeProgamadores
+
+balaDeGoma- isso se chama Camel Case
+
+f string - entende que a palavra que vc selecionou é uma variável 
+
+CALCULOS:
+Adição = +
+Subtração = -
+Divisão = /
+Multiplicação = *
+
+Maior igual >=
+Menos igual<=
+
+inglês tradução:
+if = se 
+else = se não
+elif = condição( ele vai entre o if e else) exemplo: se minha garrafa é preto(verdadeiro) se ela não for então ela é falsa 
+
+if media >7:
+ print("APROVADO")
+			
+else:
+ print("REPROVADO :")
